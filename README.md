@@ -147,6 +147,17 @@ TODO
 
 ## 人设与表演
 
+## MBTI
+
+（2022年4月）
+
+https://www.16personalities.com/profiles/6665cf32f10ab
+
+Personality type: Logician (INTP-A)
+Traits: Introverted – 83%, Intuitive – 65%, Thinking – 66%, Prospecting – 63%, Assertive – 60%
+Role: Analyst
+Strategy: Confident Individualism
+
 # 社会与群体
 
 ## 判断
