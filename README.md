@@ -221,6 +221,12 @@ Strategy: Confident Individualism
 
 这话题注定是展不开了的，这里只是做个分类，以让我时刻铭记一些事迹。
 
+## 女权
+
+### 恐男
+
+## “打脸文化”
+
 ## 内卷
 
 [从哲学角度看：我们对教育「内卷」的认同是如何形成的？](http://www.scieok.cn/post/1666.html)
@@ -308,3 +314,19 @@ TODO
 
 先锋艺术
 
+
+## 逻辑训练
+
+[谬误列表](https://zh.wikipedia.org/wiki/%E8%AC%AC%E8%AA%A4%E5%88%97%E8%A1%A8)
+
+### 反驳金字塔（Hierarchy of Disagree）
+
+虽然这是Hierarchy of Disagree，但其实日常深度聊天也是如图的道理，因此生活中也可以参考该图，只跟在上三层的人深度聊天：
+
+![File:Graham's Hierarchy of Disagreement.svg - Wikipedia](README.assets/2560px-Graham's_Hierarchy_of_Disagreement.svg.png)
+
+“从更高维度寻求一致”符合在开篇`根本指导方法`中的`对下层论点进行统一`，因此要追逐这种级别的谈话。
+
+![img](README.assets/02864d8e4bd84f839b855f2dd248a38d.jpg)
+
+练习题：B站评论
