@@ -206,6 +206,13 @@ Traits: Introverted – 83%, Intuitive – 65%, Thinking – 66%, Prospecting �
 Role: Analyst
 Strategy: Confident Individualism
 
+（2022年6月30）
+
+Personality type: Logician (INTP-T)
+Traits: Introverted – 83%, Intuitive – 61%, Thinking – 61%, Prospecting – 61%, Turbulent – 53%
+Role: Analyst
+Strategy: Constant Improvement
+
 ### 黑暗三角人格
 
 ### PUA之恶
